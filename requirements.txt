@@ -26,7 +26,7 @@ jedi==0.9.0
 Jinja2==2.7.3
 livereload==2.4.0
 Logbook==0.9.1
-lxml==3.4.4
+lxml==4.6.3
 Mako==1.0.1
 MarkupSafe==0.23
 mechanize==0.2.5
