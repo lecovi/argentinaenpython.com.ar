@@ -23,7 +23,7 @@ ipdb==0.8.1
 ipython==3.1.0
 itsdangerous==0.24
 jedi==0.9.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 livereload==2.4.0
 Logbook==0.9.1
 lxml==3.4.4
