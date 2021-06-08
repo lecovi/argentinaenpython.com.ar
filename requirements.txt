@@ -34,7 +34,7 @@ micawber==0.3.2
 natsort==4.0.1
 ndg-httpsclient==0.4.0
 -e git+git@github.com:getnikola/nikola.git@1b6bdb27193e261d0f3877dbb11232c53ccf57cc#egg=Nikola-fotorama-rst-directive
-Pillow==2.8.2
+Pillow==8.2.0
 poster==0.8.1
 pyasn1==0.1.7
 pycparser==2.13
